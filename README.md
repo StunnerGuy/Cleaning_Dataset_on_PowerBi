@@ -1,4 +1,4 @@
-# Cleaning_Dataset_on_PowerBi
+# Cleaning Dataset on PowerBi
 
 ## INTRODUCTION
 Data cleaning, also known as data cleansing or data scrubbing, is the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset. 
