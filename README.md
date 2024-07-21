@@ -42,7 +42,14 @@ Fig 4.
 
 ![](Applied_Steps.png) 
 
+## Some Adjustments Made
+1. Changes were made to the headers, they were named and adjusted to make more sense.
+2. The Names colum was also re-touched to look better and to serve its purpose in just one glance.
+3. The Gender column was also modified.
+4. The date colums was modified too, for simplicity and consistency.
+5. Index Column was added for more simplicity at glance.
 
+__PS: Looking at Fig 3a, we were able to verify on Power Query that Our data was clean, with valid entries without any error.__
 
 
 
